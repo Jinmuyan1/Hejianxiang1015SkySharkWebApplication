@@ -1,4 +1,4 @@
-﻿ <%@ Page Title="" Language="C#" MasterPageFile="~/Site1.Master" AutoEventWireup="true" CodeBehind="CancelRes.aspx.cs" Inherits="FangLiangProject4SkySharkWebApp.LOB.CancelRes" %>
+﻿ <%@ Page Title="" Language="C#" MasterPageFile="~/Site1.Master" AutoEventWireup="true" CodeBehind="CancelRes.aspx.cs" Inherits="HejianxiangProject4SkySharkWebApp.LOB.CancelRes" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server"> 
     Business Executive
 </asp:Content>
