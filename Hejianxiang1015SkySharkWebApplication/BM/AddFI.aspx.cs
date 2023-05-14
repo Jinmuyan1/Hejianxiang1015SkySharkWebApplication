@@ -5,7 +5,7 @@ using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 
-namespace FangLiangProject4SkySharkWebApp.BM
+namespace HejianxiangProject4SkySharkWebApp.BM
 {
     public partial class AddFI : System.Web.UI.Page
     {
