@@ -7,7 +7,7 @@
 // </自动生成>
 //------------------------------------------------------------------------------
 
-namespace FangLiangProject4SkySharkWebApp.NA
+namespace HejianxiangProject4SkySharkWebApp.NA
 {
 
 
