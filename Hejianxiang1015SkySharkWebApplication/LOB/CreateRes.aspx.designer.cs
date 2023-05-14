@@ -7,7 +7,7 @@
 // </自动生成>
 //------------------------------------------------------------------------------
 
-namespace FangLiangProject4SkySharkWebApp.LOB
+namespace HejianxiangProject4SkySharkWebApp.LOB
 {
 
 
