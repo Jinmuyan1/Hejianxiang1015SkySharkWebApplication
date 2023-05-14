@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site1.Master" AutoEventWireup="true" CodeBehind="ManageDatabase.aspx.cs" Inherits="FangLiangProject4SkySharkWebApp.NA.ManageDatabase" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site1.Master" AutoEventWireup="true" CodeBehind="ManageDatabase.aspx.cs" Inherits="HejianxiangProject4SkySharkWebApp.NA.ManageDatabase" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
     Network Administrator
 </asp:Content>
